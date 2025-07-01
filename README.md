@@ -1,1 +1,1 @@
-# VTU_University
+# VT_University
